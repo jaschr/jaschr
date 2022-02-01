@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Schroeder ([@jaschr](https://jaschr.com/))
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Gatsby + Tailwind.
+- 🌱 I’m currently learning Gatsby + Chakra UI + Framer Motion + Typescript
 - 📫 How to reach me: [me@jaschr.com](mailto:me@jaschr.com)
 
 <!---
