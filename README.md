@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Schroeder ([@jaschr](https://jaschr.com/))
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Ruby, Javascript, React, and Vue.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Svelte, and Astro.
 - 📫 How to reach me: [me@jaschr.com](mailto:me@jaschr.com)
 
 <!---
