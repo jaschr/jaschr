@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Schroeder ([@jaschr](https://jaschr.com/)).
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning HTML, CSS, Javascript (Typescript), and React.
+- 👀 I'm interested in a swathe of things; including: cybersecurity, game development, and full-stack development.
+- 🌱 I’m currently learning C, React, and Go.
 - 📫 How to reach me: [me@jaschr.com](mailto:me@jaschr.com)
 
 <!---
