@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jacob Schroeder ([@jaschr](https://jaschr.com/)).
-- 👀 I'm interested in a slew of things; including: cybersecurity, game development, and full-stack development.
-- 🌱 I’m currently learning C, React, and Go.
-- 📫 How to reach me: [me@jaschr.com](mailto:me@jaschr.com)
+- 👋 Hi, I’m Jacob Schroeder ([@profile](https://jakeas.com/)).
+- 👀 I'm interested in a slew of things; including: cybersecurity, game development, and web development.
+- 🌱 I’m currently learning C, Typescirpt (Astro/Tailwind/Preact), Rust, and Go.
+- 📫 How to reach me: [email](mailto:j.alexander.sch@gmail.com)
 
 <!---
 jaschr/jaschr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
