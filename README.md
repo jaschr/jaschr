@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob Schroeder ([@profile](https://jakeas.com/)).
+- 👋 Hi, I’m Jacob Schroeder ([@profile](https://j4c0b.com/)).
 - 👀 I'm interested in a slew of things; including: cybersecurity, game development, and web development.
 - 🌱 I’m currently working with C, OpenGL & Vulkan, and Zig.
 - 📫 How to reach me: [email](mailto:j.alexander.sch@gmail.com)
