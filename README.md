@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Schroeder ([@profile](https://jakeas.com/)).
 - 👀 I'm interested in a slew of things; including: cybersecurity, game development, and web development.
-- 🌱 I’m currently learning C, Typescript (Astro/Tailwind/Preact), Rust, and Go.
+- 🌱 I’m currently working with C, OpenGL & Vulkan, and Zig.
 - 📫 How to reach me: [email](mailto:j.alexander.sch@gmail.com)
 
 <!---
